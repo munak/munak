@@ -1,4 +1,11 @@
-### Hi there 👋
+![slice](https://capsule-render.vercel.app/api?type=waving&color=B450D2&fontColor=ffffff&height=200&text=munak&fontAlign=70&fontAlignY=40&desc=munak&descAlign=70&descAlignY=55)
+
+# Munak
+![Alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Alt text](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white) ![Alt text](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white) ![Alt text](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmunak%2Fmunak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![munak's github stats](https://github-readme-stats.vercel.app/api?username=munak&show_icons=true)
 
 <!--
 **munak/munak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
